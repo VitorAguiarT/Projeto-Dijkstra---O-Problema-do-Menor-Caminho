@@ -1,0 +1,270 @@
+Água Branca, Pariconha, 16
+Água Branca, Delmiro Gouveia, 19 
+Água Branca, Inhapi, 22
+Anadia, Boca da Mata, 14
+Anadia, Campo Alegre, 17
+Anadia, Maribondo, 14
+Arapiraca, Lagoa da Canoa, 14
+Arapiraca, Coité do Nóia, 21
+Arapiraca, São Sebastião, 27
+Atalaia, Pilar, 14
+Atalaia, Capela, 19
+Atalaia, Boca da Mata, 33
+Barra de Santo Antônio, Paripueira, 9 
+Barra de Santo Antônio, Passo de Camaragibe, 36
+Barra de Santo Antônio, São Luís do Quitunde, 17
+Barra de São Miguel, Marechal Deodoro, 21
+Barra de São Miguel, Roteiro, 24
+Barra de São Miguel, São Miguel dos Campos, 28
+Batalha, Jacaré dos Homens, 16
+Batalha, Belo Monte, 37
+Batalha, Jaramataia, 20
+Belém, Taquarana, 14
+Belém, Tanque d'Arca, 16 
+Belém, Cajueiro,  50
+Belo Monte, Palestina, 31 
+Boca da Mata, Anadia, 14
+Boca da Mata, São Miguel dos Campos, 39
+Branquinha, Murici, 14
+Branquinha, União dos Palmares, 12
+Branquinha, Capela, 41
+Cacimbinhas, Major Isidoro, 16 
+Cacimbinhas, Dois Riachos, 14
+Cacimbinhas, Olivença, 52
+Cajueiro, Limoeiro de Anadia, 72
+Cajueiro, Taquarana, 56
+Cajueiro, Campo Alegre, 60 
+Campestre, Jundiá, 12
+Campestre, Jacuípe,  16
+Campo Alegre, Anadia, 17
+Campo Alegre, Teotônio Vilela, 27 
+Campo Alegre, Cajueiro, 60
+Campo Grande, Penedo, 49
+Campo Grande, Igreja Nova, 19  
+Canapi, Mata Grande, 21
+Capela, Atalaia, 19
+Capela, Viçosa, 25
+Capela, Murici, 70
+Carneiros, São José da Tapera, 14 
+Carneiros, Senador Rui Palmeira, 17
+Carneiros, Olho d'Água das Flores, 20
+Chã Preta, Santana do Mundaú, 19
+Chã Preta, Viçosa, 20
+Coité do Nóia, Taquarana, 13 
+Coité do Nóia, Igaci, 17
+Coité do Nóia, Belém, 26
+Colônia Leopoldina, Novo Lino, 11  
+Colônia Leopoldina, Joaquim Gomes, 53 
+Coqueiro Seco, Maceió, 22
+Coqueiro Seco, Marechal Deodoro, 29
+Coruripe, Jequiá da Praia, 30
+Coruripe, Feliz Deserto, 28
+Coruripe, Teotônio Vilela, 38
+Craíbas, Igaci, 29
+Craíbas, Arapiraca, 21 
+Craíbas, Jaramataia, 33
+Delmiro Gouveia, Pariconha, 19 
+Delmiro Gouveia, Olho d'Água do Casado, 23
+Dois Riachos, Cacimbinhas, 14
+Dois Riachos, Santana do Ipanema, 19 
+Dois Riachos, Olivença, 41
+Estrela de Alagoas, Palmeira dos Índios, 19
+Estrela de Alagoas, Minador do Negrão, 19
+Estrela de Alagoas, Cacimbinhas, 27
+Feira Grande, São Sebastião, 17
+Feira Grande, Lagoa da Canoa, 14
+Feira Grande, Olho d'Água Grande, 29 
+Feliz Deserto, Piaçabuçu, 25
+Feliz Deserto, Coruripe, 34
+Feliz Deserto, Campo Grande, 93 
+Flexeiras, Messias, 29
+Flexeiras, Joaquim Gomes, 27 
+Flexeiras, São Luís do Quitunde, 26 
+Girau do Ponciano, Lagoa da Canoa, 13
+Girau do Ponciano, Feira Grande, 26
+Girau do Ponciano, Traipu, 29
+Ibateguara, São José da Laje, 23 
+Ibateguara, Colônia Leopoldina, 32 
+Igaci, Craíbas, 29
+Igaci, Palmeira dos Índios, 22 
+Igaci, Coité do Nóia, 17
+Igreja Nova, Olho d'Água Grande, 29
+Igreja Nova, Porto Real do Colégio, 26 
+Igreja Nova, Penedo, 31
+Inhapi, Água Branca, 22
+Inhapi, Mata Grande, 19
+Inhapi, Senador Rui Palmeira, 46 
+Jacaré dos Homens, Batalha, 16
+Jacaré dos Homens, Monteirópolis, 8 
+Jacaré dos Homens, Palestina, 18
+Jacuípe, Campestre, 16
+Jacuípe, Porto Calvo, 29
+Japaratinga, Maragogi, 11
+Japaratinga, Porto de Pedras, 11 
+Japaratinga, Porto Calvo, 20
+Jaramataia, Batalha, 20
+Jaramataia, Major Isidoro, 22
+Jaramataia, Girau do Ponciano, 66
+Jequiá da Praia, Roteiro, 26
+Jequiá da Praia, Coruripe, 32
+Jequiá da Praia, São Miguel dos Campos, 34
+Joaquim Gomes, Flexeiras, 32
+Joaquim Gomes, Ibateguara, 91
+Joaquim Gomes, Colônia Leopoldina, 59 
+Jundiá, Campestre, 11
+Jundiá, Porto Calvo, 32
+Junqueiro, São Sebastião, 13 
+Junqueiro, Campo Alegre, 25
+Junqueiro, Teotônio Vilela, 15
+Lagoa da Canoa, Feira Grande, 14
+Lagoa da Canoa, Arapiraca, 15
+Lagoa da Canoa, Girau do Ponciano, 13 
+Limoeiro de Anadia, Arapiraca, 24
+Limoeiro de Anadia, Coité do Nóia, 17 
+Maceió, Coqueiro Seco, 21
+Maceió, Marechal Deodoro, 28 
+Maceió, Paripueira, 33
+Major Isidoro, Jaramataia, 24
+Major Isidoro, Cacimbinhas, 16
+Major Isidoro, Craíbas, 28
+Mar Vermelho, Pindoba, 10
+Mar Vermelho, Paulo Jacinto, 17
+Mar Vermelho, Tanque d'Arca, 19
+Maragogi, Japaratinga, 11
+Maragogi, Jacuípe, 58
+Maravilha, Poço das Trincheiras, 14
+Maravilha, Ouro Branco, 8
+Maravilha, Senador Rui Palmeira, 32
+Marechal Deodoro, Coqueiro Seco, 30
+Marechal Deodoro, Barra de São Miguel, 25
+Marechal Deodoro, Pilar, 32
+Maribondo, Anadia, 14
+Maribondo, Pindoba, 29
+Maribondo, Belém, 20
+Mata Grande, Inhapi, 19 
+Mata Grande, Canapi, 21
+Mata Grande, Senador Rui Palmeira, 56
+Matriz de Camaragibe, Passo de Camaragibe, 21
+Matriz de Camaragibe, Porto Calvo, 24
+Matriz de Camaragibe, São Luís do Quitunde, 23
+Messias, Rio Largo, 19
+Messias, Flexeiras, 26
+Messias, Murici, 16
+Minador do Negrão, Estrela de Alagoas, 19
+Minador do Negrão, Cacimbinhas, 29
+Monteirópolis, Jacaré dos Homens, 8
+Monteirópolis, Olho d'Água das Flores, 11
+Monteirópolis, Palestina, 11
+Murici, Messias, 16
+Murici, Branquinha, 15 
+Murici, Capela, 70
+Novo Lino, Jundiá, 12 
+Novo Lino, Colônia Leopoldina, 23
+Olho d'Água das Flores, Monteirópolis, 11
+Olho d'Água das Flores, Olivença, 21
+Olho d'Água das Flores, São José da Tapera, 11 
+Olho d'Água do Casado, Piranhas, 16
+Olho d'Água do Casado, Delmiro Gouveia, 24 
+Olho d'Água Grande, São Brás, 17
+Olho d'Água Grande, Girau do Ponciano, 24
+Olho d'Água Grande, Igreja Nova, 29
+Olivença, Monteirópolis, 22
+Olivença, Dois Riachos, 41
+Olivença, Batalha, 26
+Ouro Branco, Maravilha, 8
+Ouro Branco, Senador Rui Palmeira, 39
+Palestina, Monteirópolis, 11
+Palestina, Pão de Açúcar, 22
+Palestina, São José da Tapera, 27
+Palmeira dos Índios, Estrela de Alagoas, 18
+Palmeira dos Índios, Igaci, 17
+Palmeira dos Índios, Quebrangulo, 27
+Pão de Açúcar, Palestina, 22
+Pão de Açúcar, Belo Monte, 29 
+Pariconha, Água Branca, 13
+Paripueira, Barra de Santo Antônio, 9
+Paripueira, Maceió, 31
+Paripueira, São Luís do Quitunde, 25
+Passo de Camaragibe, Matriz de Camaragibe, 21
+Passo de Camaragibe, São Luís do Quitunde, 20
+Passo de Camaragibe, São Miguel dos Milagres, 23
+Paulo Jacinto, Mar Vermelho, 17
+Paulo Jacinto, Quebrangulo, 13
+Paulo Jacinto, Tanque d'Arca, 28
+Penedo, Campo Grande, 50
+Piaçabuçu, Feliz Deserto, 25
+Pilar, Atalaia, 14
+Pilar, Santa Luzia do Norte, 15
+Pilar, Satuba, 15
+Pindoba, Maribondo, 29
+Pindoba, Mar Vermelho, 10
+Pindoba, Tanque d'Arca, 36
+Piranhas, Olho d'Água do Casado, 16
+Poço das Trincheiras, Santana do Ipanema, 11
+Poço das Trincheiras, Maravilha, 13
+Poço das Trincheiras, Carneiros, 47
+Porto Calvo, Japaratinga, 20
+Porto Calvo, Maragogi, 30
+Porto Calvo, Matriz de Camaragibe, 23
+Porto de Pedras, Japaratinga, 11
+Porto de Pedras, São Miguel dos Milagres, 16 
+Porto de Pedras, Porto Calvo,  26
+Porto Real do Colégio, Olho d'Água Grande, 28
+Porto Real do Colégio, São Brás, 13
+Quebrangulo, Paulo Jacinto, 13
+Quebrangulo, Chã Preta, 27
+Quebrangulo, Palmeira dos Índios, 27
+Rio Largo, Satuba, 22
+Rio Largo, Messias, 22
+Rio Largo, Pilar, 24
+Roteiro, Barra de São Miguel, 21
+Roteiro, Jequiá da Praia, 34
+Roteiro, São Miguel dos Campos, 17
+Santa Luzia do Norte, Coqueiro Seco, 9 
+Santa Luzia do Norte, Satuba, 5
+Santa Luzia do Norte, Marechal Deodoro, 42 
+Santana do Ipanema, Dois Riachos, 19
+Santana do Ipanema, Poço das Trincheiras, 11
+Santana do Ipanema, Carneiros, 37
+Santana do Mundaú, Chã Preta, 19
+Santana do Mundaú, União dos Palmares, 31
+São Brás, Olho d'Água Grande, 17
+São José da Laje, Ibateguara, 23
+São José da Laje, União dos Palmares, 24  
+São José da Tapera, Carneiros, 14
+São José da Tapera, Palestina, 27
+São José da Tapera, Pão de Açúcar, 28
+São Luís do Quitunde, Passo de Camaragibe, 19
+São Luís do Quitunde, Barra de Santo Antônio, 17
+São Luís do Quitunde, Flexeiras, 26
+São Miguel dos Campos, Roteiro, 17
+São Miguel dos Campos, Boca da Mata, 40
+São Miguel dos Campos, Teotônio Vilela, 42
+São Miguel dos Milagres, Passo de Camaragibe, 23
+São Miguel dos Milagres, São Luís do Quitunde, 41
+São Miguel dos Milagres, Porto de Pedras, 16
+São Sebastião, Junqueiro, 15
+São Sebastião, Igreja Nova, 38
+São Sebastião, Feira Grande, 17
+Satuba, Santa Luzia do Norte, 7
+Satuba, Rio Largo, 21
+Satuba, Pilar, 15
+Senador Rui Palmeira, Carneiros, 17
+Senador Rui Palmeira, Canapi, 45
+Senador Rui Palmeira, Maravilha, 32
+Tanque d'Arca, Belém, 16
+Tanque d'Arca, Mar Vermelho, 19
+Tanque d'Arca, Maribondo, 20
+Taquarana, Belém, 14
+Taquarana, Cajueiro, 56
+Taquarana, Coité do Nóia, 13
+Teotônio Vilela, Junqueiro, 13
+Teotônio Vilela, São Sebastião, 26
+Teotônio Vilela, Campo Alegre, 39
+Traipu, Girau do Ponciano,  29
+União dos Palmares, Branquinha, 12
+União dos Palmares, São José da Laje, 24
+União dos Palmares, Santana do Mundaú, 31
+Viçosa, Chã Preta, 20
+Viçosa, Pindoba, 18
+Viçosa, Capela, 25
